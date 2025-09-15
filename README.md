@@ -2,6 +2,8 @@
 
 An interactive React (Vite + TypeScript) app to explore stars: grid, HR diagram, and a 3D galaxy map. No backend; data is loaded from `public/data/stars.json`. Favorites and annotations persist in localStorage.
 
+Website: https://seds-celestia-mission-ctrl-problem.vercel.app
+
 ## Galactic Star Catalogue Challenge
 ### Backstory
 It’s 2040. Humanity’s DeepSkyNet scans the galaxy every second, identifying millions of stars—from tiny red dwarfs to massive blue giants and rare neutron stars. Mission CTRL needs a public-facing, interactive catalogue to help researchers, students, and enthusiasts explore stellar data quickly and beautifully.
