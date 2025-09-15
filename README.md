@@ -1,4 +1,4 @@
-# Galactic Star Catalogue (Frontend)
+# Galactic Star Catalogue 
 
 An interactive React (Vite + TypeScript) app to explore stars: grid, HR diagram, and a 3D galaxy map. No backend; data is loaded from `public/data/stars.json`. Favorites and annotations persist in localStorage.
 
